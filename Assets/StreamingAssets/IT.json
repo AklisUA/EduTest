@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "Question": "Яка мова програмування не існує?",
+      "answers": [
+        "C#",
+        "Java",
+        "Riddle"
+      ],
+      "correctAnswer": "Riddle"
+    },
+    {
+      "Question": "Коли була створенна мова с++",
+      "answers": [
+        "1960",
+        "2001",
+        "1985"
+      ],
+      "correctAnswer": "1985"
+    },
+    {
+      "Question": "Що означає абревіатура 'URL'?",
+      "answers": [
+        "Universal Resource Locator",
+        "Uniform Reference Language",
+        "Unique Resource Link"
+      ],
+      "correctAnswer": "Universal Resource Locator"
+    },
+    {
+      "Question": "Яка з наступних операцій використовується для з'єднання двох рядків в мові програмування Python?",
+      "answers": [
+        "merge()",
+        "concatenate()",
+        "join()"
+      ],
+      "correctAnswer": "join()"
+    },
+    {
+      "Question": "Що таке 'SQL'?",
+      "answers": [
+        "Structured Language",
+        "Structured Query Language",
+        "Sequential Language"
+      ],
+      "correctAnswer": "Structured Query Language"
+    }
+  ]
+}
